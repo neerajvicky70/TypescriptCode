@@ -1,0 +1,22 @@
+
+{
+    "compilerOptions": {
+        
+        "noImplicitAny": true,
+        "removeComments": true,
+        "preserveConstEnums": true,
+        "outDir": "outputjs",
+        "sourceMap": true,
+        "module": "commonjs" ,
+        "target": "es5",
+        "esModuleInterop": true
+    },
+    "include": [
+        "step/*", "page/*"
+    ],
+    
+    "exclude": [
+        "node_modules/*"
+    
+    ]
+}

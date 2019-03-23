@@ -1,0 +1,17 @@
+{
+  "scripts": {
+    "tsc": "tsc",
+    "pretest": "npm run tsc",
+    "test": "protractor protractor.conf.js"
+  },
+  "devDependencies": {
+    "@types/cucumber": "^4.0.5",
+    "@types/node": "^11.11.0",
+    "cucumber": "^5.1.0",
+    "cucumber-html-report": "^0.6.5",
+    "cucumber-html-reporter": "^4.0.5",
+    "protractor": "^5.4.2",
+    "protractor-cucumber-framework": "^6.1.1",
+    "typescript": "^3.3.3333"
+  }
+}
