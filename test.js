@@ -1,1 +1,1 @@
-console.log("test file from git1 code");
+console.log("test file from git1");
