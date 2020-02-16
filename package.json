@@ -7,11 +7,20 @@
   "devDependencies": {
     "@types/cucumber": "^4.0.5",
     "@types/node": "^11.11.0",
+    "chromedriver": "^79.0.0",
     "cucumber": "^5.1.0",
     "cucumber-html-report": "^0.6.5",
     "cucumber-html-reporter": "^4.0.5",
+    "geckodriver": "^1.19.1",
+    "moment": "^2.24.0",
     "protractor": "^5.4.2",
     "protractor-cucumber-framework": "^6.1.1",
-    "typescript": "^3.3.3333"
+    "selenium": "^2.20.0",
+    "typescript": "^3.3.3333",
+    "webdriver": "^5.18.7"
+  },
+  "dependencies": {
+    "update": "^0.7.4",
+    "webdriver-manager": "^12.1.7"
   }
 }
